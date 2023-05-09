@@ -13,7 +13,7 @@
         <tr>
           <td>
             <img
-              src="https://github-readme-stats.vercel.app/api?username=juniorboos&show_icons=true&locale=en&theme=tokyonight"
+              src="https://github-readme-stats.vercel.app/api?username=juniorboos&show_icons=true&locale=en&theme=tokyonight&count_private=true"
               alt="juniorboos's GitHub Stats"
             />
           </td>
