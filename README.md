@@ -1,7 +1,7 @@
 # Hello there 👋
 # About Me
-- 👀 I am Milton, working as a Javascript Engineer at Fignum through Lisbon Nearshore
-- 💻 I'm a React frontend developer and a content writer on Medium
+- 👀 I am Milton, working as a Senior Frontend Engineer at Fignum through Lisbon Nearshore
+- 💻 I like to write content on Medium
 - 🎓 I finished my Informatics master's degree in 2021, focusing in Cloud architectures
 - 🌱 Currenctly learning a lot about server-side rendering stuff (Remix and Next.js)
 - 🎮 Interested in IoT, competitive games and drawing
